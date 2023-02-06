@@ -61,7 +61,7 @@
     [instagram.com](https://www.instagram.com/jetzs_/ "Mi perfil personal")
 
 
-    <!-- crear citas de texto -->
+    crear citas de texto
 
     >This is a quote
 
